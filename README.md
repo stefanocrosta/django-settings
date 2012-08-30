@@ -14,7 +14,9 @@ Objectives:
 
 See also bestpractices and related:
 
- * http://lincolnloop.com/django-best-practices/projects.html
+ * http://lincolnloop.com/django-best-practices/
+ * very generic: http://blog.apps.chicagotribune.com/2010/02/26/best-practices/
+ * 
 
 Simplify Settings
 -----------------

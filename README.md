@@ -19,9 +19,10 @@ See also bestpractices and related:
 Simplify Settings
 -----------------
 
-https://github.com/matthewwithanm/django-classbasedsettings
-https://github.com/jezdez/django-configurations - http://django-configurations.readthedocs.org/en/latest/index.html
+ * https://github.com/matthewwithanm/django-classbasedsettings
+ * https://github.com/jezdez/django-configurations - http://django-configurations.readthedocs.org/en/latest/index.html
 
 Django settings.configure http://django.readthedocs.org/en/latest/topics/settings.html#custom-default-settings
 
-
+ * allow translating appnames in admin: https://github.com/bmihelac/django-app-name-translation-in-admin
+ * 
